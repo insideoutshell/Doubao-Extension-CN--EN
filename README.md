@@ -1,7 +1,7 @@
 # Doubao-Extension-CN--EN
 
 ## Project Overview
-This project focuses on translating the Doubao browser extension to English. The main goal is to make the extension more accessible to a wider range of users who are more comfortable using English.
+This project focuses on translating the Doubao browser extension to English. The main goal is to make the extension more accessible to a wider range of users who are more comfortable using English. Well, that's the AI auto summary. I just really love Doubao and I hope I'll be able to continue using it despite upcoming regulatory changes.
 
 ## How It Works
 The translation process involves several key steps:
@@ -20,9 +20,9 @@ The `apply_translations.py` script is responsible for performing the actual tran
 ## Usage
 To use this translation project, follow these steps:
 
-1. Make sure you have all the source files (`combined_chunks.txt` and `static/js/i18n_resources.js`) in the correct directory.
-2. Run the `apply_translations.py` script using Python. You can do this by opening your terminal or command prompt, navigating to the project directory, and running the following command:
-   ```sh
-   python apply_translations.py
-   ```
-3. Check the `static/js/i18n_resources.js` file to see the updated content with the translated strings.
+1. Download the latest extension from https://www.doubao.com/browser-extension/download (it should auto download)
+2. Extract this, it should have a crx file inside that's the packed extension files.
+3. Unpack the crx by using unzip command (optionally rename it to end in .zip extension)
+4. Place apply_translations.py and combined_chunks.txt in the extension's folder.
+5. Run the Python script. If all goes well, most key elements will be translated.
+6. In Chrome (for example), go to manage extensions, load unpacked, and pick the Doubao folder.
