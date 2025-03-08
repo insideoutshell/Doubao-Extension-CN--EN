@@ -20,7 +20,7 @@ The `apply_translations.py` script is responsible for performing the actual tran
 To use this translation project, follow these steps:
 
 1. Download the latest extension from https://www.doubao.com/browser-extension/download (it should auto download)
-2. Extract this, it should have a crx file inside that's the packed extension files.
+2. Extract the extension; it should have a crx file inside that's the packed extension files.
 3. Unpack the crx by using unzip command (optionally rename it to end in .zip extension)
 4. Place apply_translations.py and combined_chunks.txt in the extension's folder.
 5. Run the Python script. If all goes well, most key elements will be translated.
