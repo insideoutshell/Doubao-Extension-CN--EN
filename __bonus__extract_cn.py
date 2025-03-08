@@ -4,7 +4,7 @@ Also, I split the output into 300 line chunks and translated with Gemini.
 mkdir -p chunks && split -l 300 -d --additional-suffix=.txt i18n_list.txt chunks/chunk_ 
 cat chunks/* > combined_chunks.txt
 
-Roo Code prompt:
+Roo Code prompt, might as well:
 "Alright Gemini, I have an important mission for you. Your task is very simple. You must translate all the chunk files inside the chunks folder, but having the line scheme of Keep_identifier=Translated where Keep_identifier is the part before the equal sign that must be preserved, followed by the translated version of the Chinese that follows.  Also, make sure to retain any escapes or parse strings in their original format. Please do your best at translating these files, you're the only one capable of executing this mission. Go through each file, translate all the lines, then apply the differences by using either write file command or apply_diff, do not show it in chat. The context of these translations is for the Doubao chrome extension. Do not create any scripts and you don't need any external services, you're the one translating. Don't do line by line, try to translate the whole file at once. Good luck soldier! I'm turning on auto approve now.
 
 EDIT (IMPORTANT: We've already translated chunk_00-chunk_09, continue at chunk_10"""
