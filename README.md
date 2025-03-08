@@ -1,7 +1,7 @@
 # Doubao-Extension-CN->EN
 
 ## Project Overview
-This simple project just aims to translate the Doubao browser extension to English, making it more accessible to those that don't know Chinese. I really love Doubao and I hope to be able to continue using it despite upcoming regulatory changes.
+This simple project aims to translate the Doubao browser extension to English, making it more accessible to those that don't know Chinese. I really love Doubao's browser assistant and hope to be able to continue using it despite upcoming regulatory changes.
 
 ![preview](preview.png)
 
