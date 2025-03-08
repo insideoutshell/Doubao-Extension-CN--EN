@@ -1,10 +1,9 @@
 # Doubao-Extension-CN--EN
 
 ## Project Overview
-This project focuses on translating the Doubao browser extension to English. The main goal is to make the extension more accessible to a wider range of users who are more comfortable using English. Well, that's the AI auto summary. I just really love Doubao and I hope I'll be able to continue using it despite upcoming regulatory changes.
+This project focuses on translating the Doubao browser extension to English. The main goal is to make the extension more accessible to a wider range of users who are more comfortable using English. Well, that's the AI summary. I really love Doubao and hope I'll be able to continue using it despite upcoming regulatory changes.
 
-## How It Works
-The translation process involves several key steps:
+![preview](preview.png)
 
 ### 1. Source Files
 - `combined_chunks.txt`: This file contains all the translation entries in the format of `key=value`. These key-value pairs represent the original text and its corresponding English translation.
