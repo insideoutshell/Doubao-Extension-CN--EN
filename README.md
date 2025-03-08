@@ -1,4 +1,4 @@
-# Doubao-Extension-CN--EN
+# Doubao-Extension-CN->EN
 
 ## Project Overview
 This simple project just aims to translate the Doubao browser extension to English, making it more accessible to those that don't know Chinese. I really love Doubao and I hope to be able to continue using it despite upcoming regulatory changes.
@@ -25,3 +25,6 @@ To use this translation project, follow these steps:
 4. Place apply_translations.py and combined_chunks.txt in the extension's folder.
 5. Run the Python script. If all goes well, most key elements will be translated.
 6. In Chrome (for example), go to manage extensions, load unpacked, and pick the Doubao folder.
+
+You will need a Doubao account to get the most out of this. Only for a short while, you're able to register without a mainland number.
+![preview](problem.png)
