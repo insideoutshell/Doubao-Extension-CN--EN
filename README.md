@@ -1,7 +1,7 @@
 # Doubao-Extension-CN--EN
 
 ## Project Overview
-This project focuses on translating the Doubao browser extension to English. The main goal is to make the extension more accessible to a wider range of users who are more comfortable using English. Well, that's the AI summary. I really love Doubao and hope I'll be able to continue using it despite upcoming regulatory changes.
+This simple project just aims to translate the Doubao browser extension to English, making it more accessible to those that don't know Chinese. I really love Doubao and I hope to be able to continue using it despite upcoming regulatory changes.
 
 ![preview](preview.png)
 
