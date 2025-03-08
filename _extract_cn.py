@@ -1,4 +1,5 @@
-"""Tossing this in but it's not necessary unless you were curious. This is how the Chinese dictionary was extracted from the js. I split the output into 300 chunks and translated with Gemini."""
+"""Tossing this in but it's not necessary unless you were curious. This is how the Chinese dictionary was extracted from the js.
+Also, I split the output into 300 line chunks and translated with Gemini."""
 import os
 import re
 import json
